@@ -1,0 +1,40 @@
+# IntelliJ / Android Studio
+.idea/
+*.iml
+.gradle/
+out/
+
+# Build output
+/build/
+target/
+*/build/
+*/target/
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Configs
+local.properties
+key.properties
+*.keystore
+*.jks
+
+# Maven / Gradle
+.mvn/
+!gradle/wrapper/gradle-wrapper.jar
+**/build/
+
+# Others
+captures/
+gitignore_file
+
+# Claves y configuración local (nunca al repositorio)
+src/main/resources/firebase/
+*-firebase*.json
+*serviceAccount*.json
+.env
+application-local.properties

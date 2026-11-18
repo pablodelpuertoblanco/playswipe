@@ -1,0 +1,23 @@
+# IDE y sistema
+.idea/
+*.iml
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Compilación
+.gradle/
+.kotlin/
+build/
+out/
+target/
+local.properties
+
+# Claves y configuración privada
+google-services.json
+*-firebase*.json
+*serviceAccount*.json
+*.jks
+*.keystore
+key.properties
+.env

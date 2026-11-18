@@ -1,0 +1,38 @@
+# Android Studio
+.idea/
+*.iml
+.gradle/
+local.properties
+
+# Build output
+/build/
+*/build/
+!**/src/**/build/
+
+# Log/Temp files
+*.log
+*.tmp
+*.temp
+
+# Signatures/Keys
+*.jks
+*.keystore
+key.properties
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Kotlin specific
+*.kotlin_module
+
+# Jetpack Compose previews
+*.preview
+
+# Others
+captures/
+output.json
+.idea
+
+# Configuración de Firebase (cada uno usa la de su proyecto)
+google-services.json
