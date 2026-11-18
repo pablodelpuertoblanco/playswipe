@@ -50,7 +50,7 @@ PlaySwipeBackend/     API REST (Spring Boot)
 
 ## Cómo ejecutarlo
 
-Los servidores y las claves que usamos durante el proyecto **no están en el repositorio**. Para probarlo hace falta una base de datos MySQL propia y un proyecto de Firebase propio.
+Los servidores y las claves que usamos durante el proyecto **no están en el repositorio** y ya no están activos (el backend en AWS y el proyecto de Firebase están dados de baja). Para probarlo hace falta una base de datos MySQL propia y un proyecto de Firebase propio.
 
 ### 1. API (Spring Boot)
 
